@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+body{
+    background-image: url(https://wallsbazar.com/wp-content/uploads/2021/08/Dota-2-Wallpaper.jpg);
+}
+h1{
+    color: aquamarine;
+}
+.tabla{
+    width: 100%;
+    
+}
+
+th,td{
+    border: 1px solid darkblue;
+        border-collapse: collapse;
+}
+
+
+input{
+color: aqua;
+}
+
+label{
+    color: royalblue;
+}
